@@ -9,5 +9,5 @@
  <h2><img src="ceo.jpg" alt="points" background-color="yellow" height="200" width="200"/><br>OUR CEO</h2><body style="background-color:yellow;">
  
   <h2><img src="logo.png" alt="points" background-color="yellow" height="50" width="50"/>Managed by Kamma Ramalayam, Chilakapadu </h2><body style="background-color:yellow;">-->
-
+<H2>Managed by Kamma Ramalayam, Chilakapadu </h2>
  <!--This is comment-->
