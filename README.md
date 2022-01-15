@@ -1,6 +1,6 @@
 <head>	<meta charset="UTF-8">	<title><center>SANKRANTI 2022</center></title>	<link rel="stylesheet" href="hw1.css"></head> <body>	<header>	<center>	<h1>SANKRANTI 2022</h1>	</center>	<nav>		
 <a href="https://chhvap.github.io/sankranti/results.html">Rangoli Results</a>	
-<a href="https://chhvap.github.io/sankranti/mcresults.html">Musical chair Result</a>
+<a href="https://chhvap.github.io/sankranti/mcresult.html">Musical chair Result</a>
 <a href="https://chhvap.github.io/sankranti/lsresult.html">Lemon and Spoon Result</a>
 	<!--	<a href="https://www.dream11.com/cricket/leagues/VIVO+IPL/1828/33317?invCode=19jqr8rget4c8-&source=dream11">RCB vs MI</a>			<a href="https://forms.gle/iNTuaGbmmnDQzx57A">Picks</a>			<a href="orangeca.html" target="_blank">Orange cap</a>
 	<a href="purpleca.html" target="_blank">purple cap</a>
