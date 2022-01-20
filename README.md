@@ -9,7 +9,7 @@
 	<a href="purpleca.html" target="_blank">purple cap</a>
 	<a href="walle.html" target="_blank">wallet balance</a>-->
 </nav>	</header>		<main>
-
+<a href="https://chhvap.github.io/sankranti/sankranti22.html"><h2>Sankranti 2022</h2></a>
  	<!--<center><h2>Live </h2></center><marquee><h4> will be announced soon</h4></marquee>-->
 <!--iframe src="https://www.iplt20.com/match/2021/38" height="500" title="W3Schools Free Online Web Tutorials"></iframe>
  <h2><img src="ceo.jpg" alt="points" background-color="yellow" height="200" width="200"/><br>OUR CEO</h2><body style="background-color:yellow;">
