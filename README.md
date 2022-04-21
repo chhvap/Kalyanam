@@ -12,9 +12,9 @@
 </nav>	</header>		<main>
 <a href="https://chhvap.github.io/sankranti/sankranti22.html"><h2>శ్రీనివాస కళ్యాణం 2022</h2></a>
  	<!--<center><h2>Live </h2></center><marquee><h4> will be announced soon</h4></marquee>-->
-<!--iframe src="https://www.iplt20.com/match/2021/38" height="500" title="W3Schools Free Online Web Tutorials"></iframe>
- <h2><img src="ceo.jpg" alt="points" background-color="yellow" height="200" width="200"/><br>OUR CEO</h2><body style="background-color:yellow;">
- 
+<!--iframe src="https://www.iplt20.com/match/2021/38" height="500" title="W3Schools Free Online Web Tutorials"></iframe>-->
+ <h2><img src="sai.jpg" alt="points" background-color="yellow" height="200" width="200"/><br>OUR Leader</h2><body style="background-color:yellow;">
+<!--
   <h2><img src="logo.png" alt="points" background-color="yellow" height="50" width="50"/>Managed by Kamma Ramalayam, Chilakapadu </h2><body style="background-color:yellow;">-->
 <H2>Managed by Kamma Ramalayam, Chilakapadu </h2>
  <!--This is comment-->
