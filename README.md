@@ -1,5 +1,5 @@
 <head>	<meta charset="UTF-8">	<title><center>SANKRANTI 2022</center></title>	<link rel="stylesheet" href="hw1.css"></head> <body>	<header>	<center>	<h1> 2022</h1>	</center>	<nav>		
-  <h2><img src="srinivasa.jpg" alt="points" background-color="yellow" height="500" width="900"/></h2>
+  <h2><img src="srinivasa.jpg" alt="points" background-color="yellow" height="900" width="900"/></h2>
 <!--<a href="https://chhvap.github.io/sankranti/Sankaranti_Rangoli.html">Rangoli Results</a>	
 <a href="https://chhvap.github.io/sankranti/mcresult.html">Musical chair Result</a>
 <a href="https://chhvap.github.io/sankranti/lsresult.html">Lemon and Spoon Result</a>
