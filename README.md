@@ -1,9 +1,9 @@
 <head>	<meta charset="UTF-8">	<title><center>SANKRANTI 2022</center></title>	<link rel="stylesheet" href="hw1.css"></head> <body>	<header>	<center>	<h1>SANKRANTI 2022</h1>	</center>	<nav>		
-<a href="https://chhvap.github.io/sankranti/Sankaranti_Rangoli.html">Rangoli Results</a>	
-<a href="https://chhvap.github.io/sankranti/mcresult.html">Musical chair Result</a>
-<a href="https://chhvap.github.io/sankranti/lsresult.html">Lemon and Spoon Result</a>
-<a href="https://chhvap.github.io/sankranti/Kabbadi.html">Kabbadi</a>
-<a href="https://chhvap.github.io/sankranti/srresults.html">Sack Race Result</a>
+<a href="https://chhvap.github.io/Sankaranti_Rangoli.html">Rangoli Results</a>	
+<a href="https://chhvap.github.io/mcresult.html">Musical chair Result</a>
+<a href="https://chhvap.github.io/lsresult.html">Lemon and Spoon Result</a>
+<a href="https://chhvap.github.io/Kabbadi.html">Kabbadi</a>
+<a href="https://chhvap.github.io/srresults.html">Sack Race Result</a>
 
 	
 </nav>	</header>		<main>
